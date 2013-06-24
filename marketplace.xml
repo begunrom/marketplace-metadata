@@ -693,8 +693,8 @@ All the metadata of your documents can be retrieved using simple queries with a 
       <author>Gunter Rombauts</author>
       <author_url>http://be.linkedin.com/pub/gunter-rombauts/0/9b5/504</author_url>
       <author_logo>http://m3.licdn.com/mpr/pub/image-RxFtkmu6Ldi6dBYs_Kn-VUfreuURhWk-rxCz52JyeXmfTh8SRxFzer-6e_0xh_ZHXb1X/gunter-rombauts.jpg</author_logo>
-      <img>http://code.google.com/p/pdi-cmis-plugin/logo?cct=1372101649</img>
-      <small_img>http://code.google.com/p/pdi-cmis-plugin/logo?cct=1372101649</small_img>
+      <img>http://code.google.com/p/pdi-cmis-plugin/logo?cct&#61;1372101649</img>
+      <small_img>http://code.google.com/p/pdi-cmis-plugin/logo?cct&#61;1372101649</small_img>
       <license_name>LGPL v3</license_name>
       <versions>
         <version>
