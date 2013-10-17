@@ -709,7 +709,7 @@ All the metadata of your documents can be retrieved using simple queries with a 
           Version 1.3.0 - Performance has been increased by more than 1000%. As the perfomance limiting factor used to be at the sending side (kettle) it is now the receiving side (Alfresco) that is the limiting factor.
           Version 1.2.0 - Fixed tons of bugs
           Version 1.0.0 - Initial version
-          <changelog>
+          </changelog>
           <build_id>1</build_id>
           <min_parent_version>4.0</min_parent_version>
         </version>
